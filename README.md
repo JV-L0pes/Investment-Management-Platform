@@ -1,7 +1,6 @@
-# AnkaFlow 
 *Investment Management Platform*
 
-Sistema de gestão de carteiras de investimento desenvolvido para o processo seletivo da Anka Tech.
+Sistema de gestão de carteiras de investimento
 
 ## 🚀 Tecnologias
 
